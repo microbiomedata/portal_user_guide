@@ -3,9 +3,9 @@ The NMDC Data Portal User Guide
 ===============================
 
 September 2021
---------------
 
-.. contents::
+.. toctree::
+ :maxdepth: 2
 
 Introduction
 ============
