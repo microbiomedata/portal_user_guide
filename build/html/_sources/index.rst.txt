@@ -2,10 +2,10 @@
 The NMDC Data Portal User Guide
 ===============================
 
-September 2021
---------------
+Last change: |today|
 
-.. contents::
+.. toctree::
+ :maxdepth: 2
 
 Introduction
 ============
@@ -271,9 +271,7 @@ Various output data files are available from samples findable through the NMDC t
 In addition to the ability to download single output files from samples run through the NMDC standardized workflows, the NMDC portal allows users to perform bulk downloads on workflow output files. Once samples of interest are down-selected through query terms, output files from each NMDC standardized workflow run on those samples are available as bulk downloads. Users must be logged in with an ORCID account before downloading data.
 
 References
-
-.. code-block::
-
+===========
    1.  Abras C, Maloney-Krichmar, D., Preece, J. 2004. User-Centered Design. _In _Bainbridge W (ed), Encyclopedia of Human-Computer Interaction. Sage Publications, Thousand Oaks.
 
 

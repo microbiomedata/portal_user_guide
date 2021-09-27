@@ -2,7 +2,7 @@
 The NMDC Data Portal User Guide
 ===============================
 
-September 2021
+Last change: |today|
 
 .. toctree::
  :maxdepth: 2
