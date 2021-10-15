@@ -12,7 +12,7 @@ Introduction
 
 The pilot NMDC Data Portal (\ `https://data.microbiomedata.org <https://data.microbiomedata.org>`_\ ) provides a resource for consistently processed multi-omics data that is integrated to enable search, access, analysis, and download. Open-source bioinformatics workflows are used to process raw multi-omics data and produce interoperable and reusable annotated data from metagenome, metatranscriptome, metaproteome, metabolome, and natural organic matter characterizations. The NMDC Data Portal offers several search and navigation components, and data can be downloaded through the graphical user interface using an ORCiD authentication, with associated download metrics, or retrieved through available RESTful APIs. All multi-omics data are available under a Creative Commons 4.0 license, which enables public use with attribution, as outlined in the NMDC Data Use Policy (\ `https://microbiomedata.org/nmdc-data-use-policy <https://microbiomedata.org/nmdc-data-use-policy>`_\ ). This first iteration of the NMDC Data Portal was released in March 2021, and will continue to expand its data hostings and functionality on a quarterly basis. Associated release notes and updated user guides will accompany each quarterly release. Available code on  the NMDC GitHub repository at `https://github.com/microbiomedata <https://github.com/microbiomedata>`_.
 
-There is a short video tutorial showing how to navigate the portal at `https://www.youtube.com/watch?v=iHUm_3Ghr3c <https://www.youtube.com/watch?v=iHUm_3Ghr3c>`_.
+There is a short video tutorial showing how to navigate the portal at `Youtube. <https://www.youtube.com/watch?v=iHUm_3Ghr3c <https://www.youtube.com/watch?v=iHUm_3Ghr3c>`_
 
 
 User-Centered Design Process
