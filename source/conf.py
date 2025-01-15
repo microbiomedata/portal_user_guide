@@ -66,5 +66,5 @@ html_static_path = ['_static']
 # Reference: https://pypi.org/project/sphinx-reredirects/
 #
 redirects = {
-    "index": "https://docs.microbiomedata.org/howto_guides/portal_guide",
+    "*": "https://docs.microbiomedata.org/howto_guides/portal_guide",
 }
