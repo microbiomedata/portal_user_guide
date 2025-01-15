@@ -1,0 +1,19 @@
+# This is a Read the Docs configuration file for Sphinx projects.
+# Reference: https://docs.readthedocs.io/en/stable/config-file/v2.html
+version: 2
+
+# Indicate which OS and Python version we want Read the Docs to use
+# when compiling our documentation.
+build:
+  os: ubuntu-22.04
+  tools:
+    python: "3.12"
+
+# Tell Sphinx where our `conf.py` file resides.
+sphinx:
+  configuration: source/conf.py
+
+# Tell Sphinx where our Python package requirements list resides.
+python:
+  install:
+    - requirements: source/requirements.txt

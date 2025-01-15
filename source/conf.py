@@ -52,3 +52,19 @@ html_theme = 'classic'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# == Extension configuration =================================================
+
+# -- Redirects ---------------------------------------------------------------
+
+# Define the sources (by page path, without its suffix) and destinations
+# (by full URL, when the destination is not another local page) of the
+# redirects we want Sphinx to generate. In general, we want to redirect people
+# from pages on this local site, to corresponding pages on our centralized
+# documentation website hosted at https://docs.microbiomedata.org.
+#
+# Reference: https://pypi.org/project/sphinx-reredirects/
+#
+redirects = {
+    "index": "https://docs.microbiomedata.org/howto_guides/portal_guide",
+}
